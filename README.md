@@ -1,16 +1,22 @@
-## Hi there 👋
+AVN Bluefox | Amritha V Nair 
+                                 
+AI + Cybersecurity| Ethical Hacking | CTF Player 
+Breaking Boundaries.Securing the future 
 
-<!--
-**AVN-Bluefox/AVN-Bluefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME
+     I am an AI & Cybersecurity enthusiast passionate about ethical hacking , threat intelligence,and AI-powered security solutions. I love solving CTF callenges,researching AI-driven cybersecurity,and contributing 
+     to open source security projects.
 
-Here are some ideas to get you started:
+Specialities: AI for Cybersecurity, Red teaming, OSINT, CTF Competitions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+WHAT I DO
+     Built AI driven cybersecurity tools 
+     Compete in CTF challenges (Google CTF,TryHackMe, Hack The Box 
+     Research AI-powered security defenses 
+     Contribute to open source security projects
+
+SKILLS & TOOLS
+     Programming: Python, Bash, SQL
+     Cybersecurity: Ethical Hacking,OSINT , Red Teaming
+     AI& Machine Learning : AI for Threat Detection, NLP for Cybersecurity 
+     Tools : burp Suite, Metasploit, Wireshark, TryHackme, Hack The Box
